@@ -20,10 +20,13 @@ The TV should render in AR plane like below
 
 After deployment in mobile we can view TV as shown below
 
-![image](https://user-images.githubusercontent.com/59860538/197116611-5f81b24d-56d7-4c5f-86f0-3b5f9bfcbf46.png)
+
 
 Issues faced:
 After build AR camera shows solid background in android 12
+
+<img width="435" alt="image" src="https://user-images.githubusercontent.com/59860538/197116677-64344625-1405-4ae0-bfb3-5f82019b389d.png">
+
 
 
 
